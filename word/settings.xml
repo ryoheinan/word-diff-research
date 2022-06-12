@@ -17,6 +17,7 @@
   <w:zoom w:percent="100"/>
   <w:bordersDoNotSurroundHeader/>
   <w:bordersDoNotSurroundFooter/>
+  <w:proofState w:spelling="clean" w:grammar="clean"/>
   <w:defaultTabStop w:val="840"/>
   <w:displayHorizontalDrawingGridEvery w:val="0"/>
   <w:displayVerticalDrawingGridEvery w:val="2"/>
@@ -41,6 +42,7 @@
     <w:rsid w:val="001A2A78"/>
     <w:rsid w:val="00326935"/>
     <w:rsid w:val="00446DF4"/>
+    <w:rsid w:val="004D45D7"/>
     <w:rsid w:val="005250DB"/>
     <w:rsid w:val="0061317C"/>
     <w:rsid w:val="009919EC"/>
