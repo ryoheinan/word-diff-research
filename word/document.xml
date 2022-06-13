@@ -71,7 +71,13 @@
         <w:t>H</w:t>
       </w:r>
       <w:r>
-        <w:t>ello INIAD!</w:t>
+        <w:t xml:space="preserve">ello </w:t>
+      </w:r>
+      <w:r w:rsidRPr="00B525FB">
+        <w:rPr>
+          <w:color w:val="0070C0"/>
+        </w:rPr>
+        <w:t>INIAD!</w:t>
       </w:r>
     </w:p>
     <w:p w14:paraId="6BC737AF" w14:textId="282B38B7" w:rsidR="00326935" w:rsidRDefault="00326935" w:rsidP="00EF1EC0">
